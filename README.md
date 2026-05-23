@@ -43,7 +43,7 @@
 
 🐍 **[SnakeGame](https://github.com/mayanksagar26/SnakeGame)** — Classic Snake in plain HTML/CSS/JS. No build step, no deps — just open `index.html`.
 
-📱 **[TJTalks](https://github.com/mayanksagar26/TJTalks)** — Android app for TJ Talks (Kotlin).
+🎙️ **[voice-claw-android](https://github.com/mayanksagar26/voice-claw-android)** — TJ, an Android voice companion for self-hosted [OpenClaw](https://github.com/mayanksagar26/openclaw) agents. Tap an orb, speak, get a spoken reply back — full on-device STT/TTS, no cloud middleman. Named after TJ Detweiler from *Recess*. Built with Jetpack Compose + Kotlin.
 
 ### Data Analysis
 
