@@ -34,15 +34,7 @@
 
 💬 **[serenity-chat-insights](https://github.com/mayanksagar26/serenity-chat-insights)** (1⭐) — Mental health companion app. Built with React + TypeScript; persona-aware conversations and guided next steps.
 
-🌾 **[sarthi-smart-ai-farm-ally](https://github.com/mayanksagar26/sarthi-smart-ai-farm-ally)** (1⭐) — AI farming assistant that helps small farmers with crop decisions, pricing signals, and local context.
-
-🌱 **[Sarthi-AI-Your-Smart-Farming-Assistant](https://github.com/mayanksagar26/Sarthi-AI-Your-Smart-Farming-Assistant)** — Smart farming assistant (research & prototype phase).
-
-👥 **[sarthi-ai-humblefool](https://github.com/mayanksagar26/sarthi-ai-humblefool)** — SARTHI app — team collaboration build with HumbleFool.
-
 ### Native & Games
-
-🐍 **[SnakeGame](https://github.com/mayanksagar26/SnakeGame)** — Classic Snake in plain HTML/CSS/JS. No build step, no deps — just open `index.html`.
 
 🎙️ **[voice-claw-android](https://github.com/mayanksagar26/voice-claw-android)** — TJ, an Android voice companion for self-hosted [OpenClaw](https://github.com/mayanksagar26/openclaw) agents. Tap an orb, speak, get a spoken reply back — full on-device STT/TTS, no cloud middleman. Named after TJ Detweiler from *Recess*. Built with Jetpack Compose + Kotlin.
 
