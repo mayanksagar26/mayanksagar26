@@ -11,6 +11,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -22,21 +24,32 @@
 
 ---
 
+## 🔖 Third Street Bookmarks
+
+An AI-powered reader for your X/Twitter bookmarks. Searchable dark UI, AI chat
+over your whole collection, podcast digests with voice, analytics, and
+colour-label triage. Everything stays on your machine — the AI runs on the
+coding CLIs you already have installed, so there's no API key and nothing gets
+uploaded.
+
+Two builds of the same reader:
+
+| Repo | What it is |
+|---|---|
+| 🌐 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** (2⭐) | The original local app. Node + React, runs in your browser on `localhost`. Powered by Andrew Farah's Field Theory CLI. |
+| 🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** | The native macOS build. Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` — no terminal, no localhost tab. |
+
+---
+
 ## Projects
 
 ### AI & Web Apps
 
-🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** (1⭐) — AI-powered X/Twitter bookmark reader. Searchable dark UI, AI chat over your collection, podcast digest generator with voice, analytics, and colour-label triage.
-
-🤖 **[whattoo](https://github.com/mayanksagar26/whattoo)** — Calm AI decision assistant. Tell it what you're in the mood for (Watch, Read, Listen, or Eat) and get curated picks with Supermemory-backed personalization.
-
-🔐 **[chambers-of-secrets](https://github.com/mayanksagar26/chambers-of-secrets)** — Local, encrypted password vault. No cloud, no accounts. AES-128-CBC + HMAC-SHA256 with PBKDF2-SHA256 key derivation — just a single JSON file and your master password.
-
 💬 **[serenity-chat-insights](https://github.com/mayanksagar26/serenity-chat-insights)** (1⭐) — Mental health companion app. Built with React + TypeScript; persona-aware conversations and guided next steps.
 
-### Native & Games
+### Mobile & Native
 
-🎙️ **[voice-claw-android](https://github.com/mayanksagar26/voice-claw-android)** — TJ, an Android voice companion for self-hosted [OpenClaw](https://github.com/mayanksagar26/openclaw) agents. Tap an orb, speak, get a spoken reply back — full on-device STT/TTS, no cloud middleman. Named after TJ Detweiler from *Recess*. Built with Jetpack Compose + Kotlin.
+🎙️ **[voice-claw-android](https://github.com/mayanksagar26/voice-claw-android)** — TJ, an Android voice companion for self-hosted OpenClaw agents. Tap an orb, speak, get a spoken reply back — full on-device STT/TTS, no cloud middleman. Named after TJ Detweiler from *Recess*. Built with Jetpack Compose + Kotlin.
 
 ### Data Analysis
 
