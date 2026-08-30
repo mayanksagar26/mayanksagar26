@@ -4,44 +4,17 @@
 
 ---
 
-## Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=flat&logo=gnu-bash&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
----
-
-## 🔖 Third Street Bookmarks
-
-An AI-powered reader for your X/Twitter bookmarks. Searchable dark UI, AI chat
-over your whole collection, podcast digests with voice, analytics, and
-colour-label triage. Everything stays on your machine — the AI runs on the
-coding CLIs you already have installed, so there's no API key and nothing gets
-uploaded.
-
-Two builds of the same reader:
-
-| Repo | What it is |
-|---|---|
-| 🌐 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** (2⭐) | The original local app. Node + React, runs in your browser on `localhost`. Powered by Andrew Farah's Field Theory CLI. |
-| 🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** | The native macOS build. Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` — no terminal, no localhost tab. |
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
 
 ---
 
 ## Projects
+
+### Local-first apps
+
+🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** (2⭐) — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
+
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
 
 ### AI & Web Apps
 
@@ -70,13 +43,6 @@ Two builds of the same reader:
 🌐 **[imad-2016-app](https://github.com/mayanksagar26/imad-2016-app)** — IMAD 2016 course app (JavaScript).
 
 👶 **[hello-world](https://github.com/mayanksagar26/hello-world)** — Where it all started.
-
----
-
-## GitHub Stats
-
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayanksagar26&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksagar26&layout=compact&theme=dark&hide_border=true)
 
 ---
 
