@@ -12,6 +12,8 @@
 
 ### Local-first apps
 
+🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; Tauri + Rust + React.
+
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** (2⭐) — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
 🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
