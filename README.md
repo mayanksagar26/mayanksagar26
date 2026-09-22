@@ -14,13 +14,13 @@
 
 🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; Tauri + Rust + React.
 
-🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** (2⭐) — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
+🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
 🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
 
 ### AI & Web Apps
 
-💬 **[serenity-chat-insights](https://github.com/mayanksagar26/serenity-chat-insights)** (1⭐) — Mental health companion app. Built with React + TypeScript; persona-aware conversations and guided next steps.
+💬 **[serenity-chat-insights](https://github.com/mayanksagar26/serenity-chat-insights)** — Mental health companion app. Built with React + TypeScript; persona-aware conversations and guided next steps.
 
 ### Mobile & Native
 
@@ -28,11 +28,11 @@
 
 ### Data Analysis
 
-✈️ **[Airline-pricing](https://github.com/mayanksagar26/Airline-pricing)** (3⭐) — Pricing analysis across six US airlines. Economy vs. Premium Economy seat factors — width, armrest height, and more — modeled in R.
+✈️ **[Airline-pricing](https://github.com/mayanksagar26/Airline-pricing)** — Pricing analysis across six US airlines. Economy vs. Premium Economy seat factors — width, armrest height, and more — modeled in R.
 
-🏨 **[Hotel-Pricing-of-Indian-hotels](https://github.com/mayanksagar26/Hotel-Pricing-of-Indian-hotels)** (1⭐) — Indian hotel room rent pricing analysis with histograms, regression, and market breakdowns in R.
+🏨 **[Hotel-Pricing-of-Indian-hotels](https://github.com/mayanksagar26/Hotel-Pricing-of-Indian-hotels)** — Indian hotel room rent pricing analysis with histograms, regression, and market breakdowns in R.
 
-🎓 **[MBA-Salaries](https://github.com/mayanksagar26/MBA-Salaries)** (1⭐) — Regression model in R predicting MBA graduate salaries from independent variables like specialisation, CGPA, and work experience.
+🎓 **[MBA-Salaries](https://github.com/mayanksagar26/MBA-Salaries)** — Regression model in R predicting MBA graduate salaries from independent variables like specialisation, CGPA, and work experience.
 
 ### Learning Projects
 
