@@ -2,6 +2,8 @@
 
 📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
 
+Currently into **local-first, on-device AI** — apps where the AI runs on the coding CLI you already have (Claude Code, Codex) instead of another API key and another place your data lives.
+
 ---
 
 **Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
@@ -16,7 +18,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS app: a Tauri + Rust shell around a supervised Node sidecar, packaged as a `.app`/`.dmg` you just download and run. Pulls in X, Hacker News, YouTube, Instagram and any loose link into one searchable library, with on-device AI chat, podcast digests, and search — no cloud, no account, nothing uploaded. No terminal, no localhost tab.
 
 ### AI & Web Apps
 
@@ -53,3 +55,5 @@
 [![X](https://img.shields.io/badge/@mayanksagar26-000000?style=flat&logo=x&logoColor=white)](https://x.com/mayanksagar26)
 [![LinkedIn](https://img.shields.io/badge/mayanksagar26-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanksagar26)
 [![Email](https://img.shields.io/badge/mayanksagar26%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayanksagar26@gmail.com)
+
+<sub>Last updated: September 2026</sub>
