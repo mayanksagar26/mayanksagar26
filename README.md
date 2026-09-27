@@ -1,6 +1,6 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building agentic, local-first AI at the intersection of AI & real-world problems
 
 ---
 
@@ -10,13 +10,13 @@
 
 ## Projects
 
-### Local-first apps
+### Local-first, agent-powered apps
 
 🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; Tauri + Rust + React.
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The native macOS build of the same reader: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. Pulls X, Hacker News, YouTube, Instagram and any loose link into one searchable, categorised library — chat, podcast digests and auto-categorising all run on Claude Code or Codex, sandboxed and read-only, so nothing you bookmark ever leaves your Mac. No terminal, no localhost tab, no cloud.
 
 ### AI & Web Apps
 
@@ -53,3 +53,5 @@
 [![X](https://img.shields.io/badge/@mayanksagar26-000000?style=flat&logo=x&logoColor=white)](https://x.com/mayanksagar26)
 [![LinkedIn](https://img.shields.io/badge/mayanksagar26-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanksagar26)
 [![Email](https://img.shields.io/badge/mayanksagar26%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayanksagar26@gmail.com)
+
+<sub>Last updated 27 September 2026.</sub>
