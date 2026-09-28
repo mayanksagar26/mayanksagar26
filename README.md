@@ -2,6 +2,10 @@
 
 📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
 
+Right now: local-first apps that put agentic coding CLIs (Claude Code, Codex) to work
+as the AI backend — so the app ships with no API key, no cloud bill, and nothing
+leaving your machine.
+
 ---
 
 **Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
@@ -16,7 +20,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. Pulls in bookmarks from X, Hacker News, YouTube and Instagram into one searchable library, with AI chat, podcast digests, and colour-label triage — the AI runs on whichever coding CLI you already have, so there's no API key, no account, and no terminal or localhost tab to babysit.
 
 ### AI & Web Apps
 
@@ -53,3 +57,7 @@
 [![X](https://img.shields.io/badge/@mayanksagar26-000000?style=flat&logo=x&logoColor=white)](https://x.com/mayanksagar26)
 [![LinkedIn](https://img.shields.io/badge/mayanksagar26-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanksagar26)
 [![Email](https://img.shields.io/badge/mayanksagar26%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayanksagar26@gmail.com)
+
+---
+
+<sub>Last updated September 2026.</sub>
