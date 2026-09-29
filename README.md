@@ -1,22 +1,28 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+**AI product builder in Bengaluru** — shipping local-first, privacy-first apps that put AI agents to work on real-world problems. Aiming for a Delta 4+ product.
+
+*Last updated: 29 September 2026*
+
+**Stack** — TypeScript · Python · Rust · Kotlin · Tauri · Next.js / React · Node.js · R · Claude Code, Codex & OpenAI APIs
+
+**Currently exploring** — local-first AI, coding-CLI-as-backend (no API keys), on-device voice agents, and Mac-native tooling.
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+## ⭐ Featured
+
+🔖 **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — *v1.2.0, native macOS app.* One private, searchable library for your X/Twitter bookmarks, Hacker News, YouTube and Instagram saves. Chat with your bookmarks, get AI podcast digests, auto-categorise with Claude Code or Codex — no API key, no upload, no account. Tauri 2 + Rust + Node sidecar + React. [⬇️ Download the `.dmg`](https://github.com/mayanksagar26/third-street-bookmarks-macapp/releases/latest)
+
+🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. macOS app that clears Downloads and Desktop by rules you write in plain words, previews every move, catches duplicates, and lets you undo any run. Works with no AI at all; Tauri + Rust + React.
 
 ---
 
 ## Projects
 
-### Local-first apps
-
-🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; Tauri + Rust + React.
+### Local-first apps (web build)
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
-
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
 
 ### AI & Web Apps
 
