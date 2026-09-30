@@ -1,22 +1,30 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+**AI product builder · Bengaluru** — I build local-first, privacy-respecting AI tools: native macOS apps, agent-powered workflows, and voice interfaces. Aiming for Delta 4+ products at the intersection of AI and real-world problems.
+
+![Local-first](https://img.shields.io/badge/local--first-AI-black) ![Tauri](https://img.shields.io/badge/Tauri-Rust-black) ![Claude Code](https://img.shields.io/badge/Claude_Code-agents-D97757) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+_Last updated: 30 September 2026_
+
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · R · Claude & OpenAI APIs · Claude Code / Codex CLI
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+## Now — featured
+
+🖥️ **[Third Street Bookmarks for macOS](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — v1.2.0. A native Mac app (Tauri 2 + Rust shell, supervised Node sidecar, `.app`/`.dmg`) that turns X, Hacker News, YouTube, Instagram and loose links into one searchable, categorised, listenable library. AI chat, explanations and podcast digests run on the Claude Code or Codex CLI you already have — **no API key, no account, nothing leaves your Mac.** Categorise with regex, Claude, Codex, or Laya trained on your own labels. Unsigned Apple Silicon build; a browser version shares the same `~/.tsb` data.
+`macos` `tauri` `rust` `bookmarks` `twitter-bookmarks` `local-first` `privacy` `claude-code` `codex` `second-brain` `podcast`
+
+🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app (Tauri + Rust + React) that sorts Downloads and Desktop by rules you write in plain words, previews every move, catches duplicates, and can undo any run. Works with no AI at all.
+`macos` `file-organizer` `tauri` `rust` `local-first`
 
 ---
 
-## Projects
+## More projects
 
 ### Local-first apps
 
-🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; Tauri + Rust + React.
-
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
-
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
 
 ### AI & Web Apps
 
