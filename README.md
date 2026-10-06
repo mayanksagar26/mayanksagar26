@@ -4,19 +4,28 @@
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Tauri · Kotlin · Next.js / React · Node.js · R · Claude Code, Codex & OpenAI APIs
+
+**Currently into** — local-first & privacy-first AI apps · agentic coding workflows (Claude Code, Codex CLI) · native desktop with Tauri 2 + Rust · on-device voice
+
+*Last updated: 6 October 2026*
 
 ---
 
-## Projects
+## Featured: Mac apps that run AI on your own machine
 
-### Local-first apps
+### 🔖 Third Street Bookmarks for macOS — [third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp) · v1.2.0
 
-🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; Tauri + Rust + React.
+A native **macOS bookmark manager** (Tauri 2 + Rust + a supervised Node sidecar, shipped as a `.app` / `.dmg`) that pulls **X/Twitter bookmarks, Hacker News favourites, YouTube playlists and Instagram saves** into one searchable, categorised, listenable library. Chat with your whole collection, generate podcast digests, and auto-categorise with regex, Claude, Codex, or a model trained on your own labels. **No API key, no account, no upload** — the AI runs on the coding CLI you already have.
+Browser version: [third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks).
 
-🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
+### 🧹 [menlo](https://github.com/mayanksagar26/menlo)
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
+A calmer place for your files. A native macOS app (Tauri + Rust + React) that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Previews every landing, catches duplicates, renames screenshots, and every run can be undone. Works with no AI at all.
+
+---
+
+## More projects
 
 ### AI & Web Apps
 
