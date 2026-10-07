@@ -4,7 +4,13 @@
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+I build **local-first, privacy-first AI tools** — apps where your data stays on your machine and the AI runs on the coding agent you already use (Claude Code, Codex). Native desktop with **Tauri 2 + Rust**, on-device voice on **Android**, and agent-powered workflows on **Node/TypeScript**.
+
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · R · Claude & OpenAI APIs
+
+**Currently exploring** — local-first software · AI agents & coding CLIs (Claude Code, Codex) · on-device speech (STT/TTS) · semantic search over personal data
+
+> 🗓️ Last updated: **7 October 2026**
 
 ---
 
@@ -16,7 +22,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — *v1.2.0 · actively maintained.* The same reader as a native macOS app (Tauri 2 + Rust shell, supervised Node sidecar, SQLite) — a real `.app` / `.dmg`, no terminal, no localhost tab. One searchable library for **X/Twitter, Hacker News, YouTube and Instagram** bookmarks, with **AI chat over your collection** and **podcast digests**, powered by Claude Code or Codex. 100% local: no API key, no account, no upload. Recent: safer concurrent writes to the shared `~/.tsb` store, favourites keeping their date when refiled.
 
 ### AI & Web Apps
 
