@@ -4,6 +4,8 @@
 
 ---
 
+**Now** — shipping local-first, privacy-first AI apps: native macOS (Tauri + Rust), agent-driven workflows with Claude Code & Codex, and on-device voice. *Last updated: 8 October 2026.*
+
 **Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
 
 ---
@@ -16,7 +18,9 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The native macOS build (v1.2.0, Apple Silicon `.dmg`) of the same reader, and the more complete one. One searchable, categorised library for X/Twitter, Hacker News, YouTube, Instagram and loose links. Chat with your bookmarks, generate podcast digests, and categorise by regex, Claude, Codex, or [Laya](https://github.com/NandhaKishorM/laya) trained offline on your own labels. Tauri 2 shell around a supervised Node sidecar; data stays in `~/.tsb`, shared with the browser build. No API key, no upload, no account. Install by downloading the release or by pasting a prompt into Claude Code / Codex.
+
+`local-first` `privacy-first` `tauri` `rust` `macos` `bookmark-manager` `claude-code` `semantic-search`
 
 ### AI & Web Apps
 
