@@ -2,9 +2,17 @@
 
 📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
 
+I build **local-first, privacy-respecting AI apps** — tools that run on your machine, use the coding agent you already have (Claude Code, Codex), and never ask for an API key or an account.
+
+🗓️ *Last updated: 10 October 2026*
+
+**Now** — shipping [Third Street Bookmarks](https://github.com/mayanksagar26/third-street-bookmarks-macapp) v1.2 (native macOS app, Tauri 2 + Node sidecar) · refining [Menlo](https://github.com/mayanksagar26/menlo), a rules-based Mac file organiser · exploring agentic CLI workflows (Claude Code, Codex)
+
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · R · Claude & OpenAI APIs · MCP
+
+`#local-first` `#ai-agents` `#claude-code` `#tauri` `#macos` `#bookmark-manager` `#rust` `#react`
 
 ---
 
@@ -16,7 +24,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — *(v1.2.0, updated Oct 2026)* The same reader as a native macOS app: a Tauri 2 shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. One searchable, categorised library for X, Hacker News, YouTube, Instagram and any link — with AI chat, explanations and podcast digests powered by Claude Code or Codex. Everything stays in `~/.tsb`; no API key, no upload, no account. Shares its collection with the browser build.
 
 ### AI & Web Apps
 
