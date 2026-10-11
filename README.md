@@ -4,6 +4,8 @@
 
 ---
 
+**Now (Oct 2026)** — Shipping local-first, privacy-first AI apps for macOS: no API keys, no cloud, your data stays on your machine. Currently polishing [Third Street Bookmarks](https://github.com/mayanksagar26/third-street-bookmarks-macapp), a native Mac bookmark manager with AI chat over your whole collection.
+
 **Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
 
 ---
@@ -16,7 +18,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — An AI-powered reader for your X/Twitter bookmarks: searchable dark UI, AI chat over your whole collection, podcast digests with voice, analytics, and colour-label triage. Node + React running on `localhost` — no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same reader as a native macOS build: a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg`. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — Native macOS bookmark manager (Tauri 2 + Rust + React): one searchable, auto-categorised library for X/Twitter, Hacker News, YouTube and Instagram bookmarks. AI chat, explanations and podcast digests run on the Claude Code or Codex CLI you already have — no API key, no upload, no account. Ships as a real `.app` / `.dmg`. *Updated Oct 2026.*
 
 ### AI & Web Apps
 
@@ -53,3 +55,5 @@
 [![X](https://img.shields.io/badge/@mayanksagar26-000000?style=flat&logo=x&logoColor=white)](https://x.com/mayanksagar26)
 [![LinkedIn](https://img.shields.io/badge/mayanksagar26-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanksagar26)
 [![Email](https://img.shields.io/badge/mayanksagar26%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayanksagar26@gmail.com)
+
+<sub>Topics: local-first · privacy-first AI · Tauri · Rust · macOS · bookmark manager · AI agents · MCP · Claude Code · Codex · voice AI · Kotlin · Jetpack Compose · Last updated 2026-10-11</sub>
