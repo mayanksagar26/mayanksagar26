@@ -1,6 +1,11 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+**AI product builder in Bengaluru** — shipping local-first, privacy-first AI apps and agent tooling.
+📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Where AI meets real-world problems
+
+*Last updated: 12 October 2026*
+
+`local-first` `on-device AI` `agentic coding` `Claude Code` `Tauri` `Rust` `TypeScript` `Python` `macOS` `Android`
 
 ---
 
@@ -10,13 +15,19 @@
 
 ## Projects
 
+### Now building (Oct 2026)
+
+Focused on **local-first AI desktop apps**: your data stays on your machine, and the AI runs on the
+agentic coding CLI you already have (Claude Code, Codex) instead of a new API key or subscription.
+Flagship: **third-street-bookmarks** (below), now shipping as a native Mac app.
+
 ### Local-first apps
 
 🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; v0.1.0 for Apple Silicon. Tauri + Rust + React.
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS app (v1.2.0, Apple Silicon `.dmg`): a **local-first AI bookmark manager** for X, Hacker News, YouTube, Instagram and links, with cited AI chat, semantic categorisation and podcast digests. Tauri 2 + Rust shell around a supervised Node sidecar, SQLite storage in `~/.tsb`, no terminal, no localhost tab, no API key, no account. Shares its data with the browser build above.
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
