@@ -1,10 +1,12 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+**AI product builder in Bengaluru** — shipping local-first, privacy-first apps that run on the AI tools you already have: Claude Code, Codex, on-device models. No API keys, no uploads, no accounts.
 
----
+📍 Bengaluru · 🎯 In quest of making a Delta 4+ Product · 🤖 AI × real-world problems · 🗓️ *Last updated: 14 October 2026*
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Tauri · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs · MCP
+
+**Now** — shipping native macOS apps with [Tauri](https://tauri.app) + Rust, wiring AI agents (Claude Code, Codex) into everyday tools, and keeping data on-device.
 
 ---
 
@@ -16,7 +18,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — A native macOS bookmark manager with AI chat, podcast digests and offline auto-categorising. The same library as above, packaged as a real `.app` / `.dmg` for Apple Silicon (v1.2.0, Oct 2026): a Tauri 2 shell around a supervised Node sidecar, SQLite storage, and AI via your local Claude Code or Codex CLI. Imports X, Hacker News, YouTube playlists, Instagram saves and loose links; local-first, MIT-licensed, no terminal, no localhost tab. *Keywords: macOS app, Tauri, bookmark manager, local-first, Claude Code, Codex, second brain, privacy.*
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
