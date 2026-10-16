@@ -1,14 +1,26 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+**AI product builder in Bengaluru** — shipping local-first, privacy-first apps: native macOS apps (Tauri + Rust), AI agents on Claude Code / Codex, on-device voice, and open-source video AI. No API keys, no cloud lock-in.
+
+📍 Bengaluru · 🎯 Making a Delta 4+ product · 🤖 AI × real-world problems · 🗓️ *Last updated: 16 October 2026*
+
+`local-first` `ai-agents` `claude-code` `tauri` `rust` `typescript` `macos` `on-device-ai` `open-source`
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · FastAPI · R · Claude & OpenAI APIs
 
 ---
 
-## Projects
+## Featured
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🔖 [**third-street-bookmarks-macapp**](https://github.com/mayanksagar26/third-street-bookmarks-macapp) | Native macOS bookmark manager: X, Hacker News, YouTube, Instagram and links in one searchable, AI-chat, podcast-digest library. v1.2.0, Apple Silicon `.dmg` | Tauri 2 · Rust · React · Node |
+| 🧹 [**menlo**](https://github.com/mayanksagar26/menlo) | Clears Downloads/Desktop by plain-words rules, previews every move, undoable | Tauri · Rust · React |
+| 🎬 [**vid-bid**](https://github.com/mayanksagar26/vid-bid) | Swap the product inside any video, fully open source (SAM 2, CLIP, Wan 2.1 VACE) | Python · FastAPI |
+
+## All projects
 
 ### Local-first apps
 
@@ -16,7 +28,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS app (v1.2.0): a Tauri 2 shell around a supervised Node sidecar, shipped as a `.app`/`.dmg` for Apple Silicon. AI chat, explanations and podcast digests run on Claude Code or Codex, locally. No terminal, no localhost tab, no API key.
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
