@@ -1,10 +1,31 @@
 # Hi, I'm Mayank 👋
 
+**AI product builder in Bengaluru** — shipping local-first, privacy-respecting apps and agent tooling: macOS apps (Tauri + Rust), Claude Code / Codex-powered workflows, on-device voice, and open-source computer vision.
+
 📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+
+🗓️ **Last updated: 18 October 2026**
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · R · Claude & OpenAI APIs
+
+**Currently exploring** — local-first AI · agentic coding CLIs (Claude Code, Codex) · MCP · on-device speech · private-by-default software
+
+**Topics** — `local-first` `ai-agents` `claude-code` `macos` `tauri` `rust` `bookmarks` `second-brain` `open-source` `privacy`
+
+---
+
+## ⭐ Featured: Third Street Bookmarks for macOS
+
+> Your X, Hacker News, YouTube and Instagram bookmarks in one private, searchable library — with AI chat and podcast digests that run on the coding CLI you already have. No API key, no upload, no account.
+
+**[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** · v1.2.0 · [Download the `.dmg`](https://github.com/mayanksagar26/third-street-bookmarks-macapp/releases/latest) · Apple Silicon · MIT
+
+- **Native, local-first** — Tauri 2 shell around a supervised Node sidecar; data lives in `~/.tsb` on your Mac.
+- **Ask your bookmarks** — AI chat that cites what it found, powered by Claude Code or Codex.
+- **Categorise** — regex, Claude, Codex, or a classifier trained on your own labels.
+- **Same library in the browser** via [third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks) — both share `~/.tsb`.
 
 ---
 
