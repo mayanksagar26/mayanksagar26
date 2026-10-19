@@ -4,6 +4,10 @@
 
 ---
 
+> *Last updated: 19 October 2026*
+
+**Focus** — local-first AI apps · privacy-first, on-device tooling · agentic workflows with Claude Code & Codex CLI · native desktop (Tauri 2 + Rust) · open-source, no-API-key software
+
 **Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
 
 ---
@@ -16,7 +20,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — *Featured · v1.2.0.* A native macOS bookmark manager and AI second brain: X (Twitter), Hacker News, YouTube and Instagram bookmarks in one local, searchable library. Chat with your bookmarks (answers cite sources), generate podcast digests, and auto-categorise with regex, Claude, Codex or on-device Laya trained on your own labels. Tauri 2 shell around a supervised Node sidecar, SQLite storage, a real `.app`/`.dmg` for Apple Silicon. Local-first and private: no API key, no account, nothing uploaded. Shares `~/.tsb` with the browser build above. `tauri` `macos` `local-first` `bookmarks` `rag` `claude-code` `codex` `second-brain`
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
