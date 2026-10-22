@@ -1,10 +1,14 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building local-first, privacy-first AI apps and agent tooling
+
+> *Last updated: 22 October 2026* — currently shipping **local-first AI apps** for macOS (Tauri + Rust + Node), built around coding-agent CLIs like **Claude Code** and **Codex** instead of API keys.
+
+`local-first` · `on-device AI` · `AI agents` · `Claude Code` · `Tauri 2` · `macOS` · `Rust` · `TypeScript` · `open source`
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Kotlin · Tauri · Next.js / React · Node.js · R · Claude Code, Codex & OpenAI/Anthropic APIs
 
 ---
 
@@ -16,7 +20,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — ⭐ *Latest: v1.2.0 (Oct 2026).* A native macOS **bookmark manager with local AI**: a Tauri 2 shell around a supervised Node sidecar, shipped as a real `.app` / `.dmg` for Apple Silicon. Import X (Twitter) bookmarks, Hacker News, YouTube and Instagram saves into one private, searchable library; chat with citations, podcast-style digests, and categorising by regex, Claude, Codex or a classifier trained on your own labels. Runs on the Claude Code / Codex CLI you already have — no API key, no cloud, no account. Shares `~/.tsb` with the browser build.
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
