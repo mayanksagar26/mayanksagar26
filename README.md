@@ -1,24 +1,27 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building local-first, privacy-first AI apps for real-world problems
+
+![Last updated](https://img.shields.io/badge/last%20updated-23%20Oct%202026-informational?style=flat)
+
+I build **local-first AI tools** — apps where your data stays on your machine and the AI runs on the coding agents you already use ([Claude Code](https://claude.ai/code), [Codex CLI](https://github.com/openai/codex)). No API keys, no accounts, no uploads.
+
+**Stack** — TypeScript · Python · Rust · Kotlin · Tauri 2 · Next.js / React · Node.js · SQLite · R · Claude & OpenAI APIs
+
+**Currently** *(Oct 2026)* — shipping the native macOS build of Third Street Bookmarks (v1.2.0, Tauri 2 + a supervised Node sidecar), and keeping Menlo and vid-bid sharp.
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+## ⭐ Featured
 
----
+| Project | What it is | Built with |
+|---|---|---|
+| 🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** | Native **macOS app** for your X, Hacker News, YouTube and Instagram bookmarks: one searchable library with AI chat that cites sources, podcast digests and Laya-based offline categorising. Unsigned `.dmg` for Apple Silicon. | Tauri 2 · Rust · Node · React |
+| 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** | The same library as a browser app on `localhost`. Shares `~/.tsb` with the Mac app, so both open the same collection. | Node · React |
+| 🧹 **[menlo](https://github.com/mayanksagar26/menlo)** | macOS file organiser: rules in plain words, preview before anything moves, duplicate detection, full undo. Works without AI. | Tauri · Rust · React |
+| 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** | Swap the product inside a video with open models (SAM 2, CLIP, YOLO-World, Wan 2.1 VACE). Free, with a CLI and Colab notebook. | Python · FastAPI |
 
-## Projects
-
-### Local-first apps
-
-🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; v0.1.0 for Apple Silicon. Tauri + Rust + React.
-
-🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
-
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
-
-🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
+## More projects
 
 ### AI & Web Apps
 
@@ -55,3 +58,5 @@
 [![X](https://img.shields.io/badge/@mayanksagar26-000000?style=flat&logo=x&logoColor=white)](https://x.com/mayanksagar26)
 [![LinkedIn](https://img.shields.io/badge/mayanksagar26-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayanksagar26)
 [![Email](https://img.shields.io/badge/mayanksagar26%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mayanksagar26@gmail.com)
+
+<sub>Topics: local-first · on-device AI · privacy-first · Claude Code · Codex CLI · Tauri 2 · macOS · bookmarks manager · open source</sub>
