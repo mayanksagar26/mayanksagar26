@@ -1,10 +1,12 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+**AI product builder in Bengaluru** — I ship local-first, privacy-first desktop, mobile and web apps powered by LLMs and coding agents (Claude Code, Codex, MCP).
 
----
+📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 AI × real-world problems | 🗓️ *Last updated: 24 Oct 2026*
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Kotlin · Tauri · Next.js / React · Node.js · R · Claude & OpenAI APIs
+
+**Currently into** — local-first software · agentic coding workflows · on-device AI · native macOS apps with Tauri 2 · bring-your-own-CLI AI (no API keys)
 
 ---
 
@@ -16,7 +18,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The native macOS bookmark manager (v1.2.0, Oct 2026): a **Tauri 2** shell around a supervised Node sidecar, shipped as a real `.app` / `.dmg` for Apple Silicon. Search, read and listen to your X, Hacker News, YouTube and Instagram saves in one place; chat with them using **Claude Code or Codex** as the engine; AI categorising with Laya; podcast digests. Local-first, no API key, no account, nothing uploaded. Shares `~/.tsb` with the browser build. Keywords: *macOS bookmark manager, X/Twitter bookmarks, Hacker News, AI chat with bookmarks, Tauri, privacy-first.*
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
