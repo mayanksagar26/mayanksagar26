@@ -1,10 +1,28 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building local-first AI tools and agents for real-world problems
+
+> 🗓️ **Last updated: 26 October 2026** · Currently shipping: **Third Street Bookmarks** (native macOS app) and **Menlo**
+
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · R · Claude & OpenAI APIs
+
+**Topics I build around** — `local-first` · `privacy-first AI` · `AI agents` · `Claude Code` · `MCP` · `RAG` · `Tauri` · `macOS apps` · `open-source AI` · `bookmark manager` · `voice AI`
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+## ⭐ Featured: Third Street Bookmarks for macOS
+
+[![Download](https://img.shields.io/badge/Download-macOS%20(Apple%20Silicon)-black?logo=apple)](https://github.com/mayanksagar26/third-street-bookmarks-macapp/releases/latest)
+![Tauri 2](https://img.shields.io/badge/Tauri-2-24C8DB?logo=tauri&logoColor=white)
+![Local-first](https://img.shields.io/badge/local--first-no%20API%20key-success)
+
+A **local-first, AI-powered bookmark manager** for Mac. Pulls your X (Twitter) bookmarks, Hacker News favourites, YouTube and Instagram saves and any loose link into one searchable, categorised library, then lets you chat with it (answers cite your own bookmarks), listen to podcast-style digests, and triage with colour labels.
+
+- 🔒 **Private by design** — everything stays on your Mac in `~/.tsb`; no account, no upload, no API key
+- 🤖 **Bring your own AI** — runs on the Claude Code or Codex CLI you already have installed
+- 🖥️ **Native `.app` / `.dmg`** — a Tauri 2 + Rust shell around a supervised Node sidecar, React UI, v1.2.0 for Apple Silicon
+
+👉 **[Get the app](https://github.com/mayanksagar26/third-street-bookmarks-macapp/releases/latest)** · [Source](https://github.com/mayanksagar26/third-street-bookmarks-macapp) · [Browser version](https://github.com/mayanksagar26/third-street-bookmarks)
 
 ---
 
@@ -16,7 +34,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS app (v1.2.0): a Tauri 2 shell around a supervised Node sidecar, shipped as a real `.app` and `.dmg` for Apple Silicon. Shares `~/.tsb` with the browser build, so both open the same collection. No terminal, no localhost tab.
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
