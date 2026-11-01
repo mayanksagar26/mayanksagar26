@@ -1,10 +1,16 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+**AI product builder in Bengaluru — shipping local-first, privacy-first AI apps** (macOS, Android, web). Working with Claude Code, Codex, agents and on-device models, on a quest to build a Delta 4+ product.
+
+📍 Bengaluru · 🎯 Product × AI · 🔒 Local-first, no-API-key, your-data-stays-yours
+
+<sub>🗓️ Last updated: 1 November 2026</sub>
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · R · Claude Code · Codex · Claude & OpenAI APIs
+
+**Currently exploring** — local-first software · AI agents & coding-CLI harnesses (ACP) · on-device AI · open-source video AI
 
 ---
 
@@ -14,9 +20,11 @@
 
 🧹 **[menlo](https://github.com/mayanksagar26/menlo)** — A calmer place for your files. A native macOS app that clears Downloads and Desktop into the folders you choose, by rules you write in plain words — *"anything with the word lease goes here"*. Shows every landing before anything moves, catches byte-identical duplicates, gives screenshots clearer names, and every run can be undone. Works with no AI at all; v0.1.0 for Apple Silicon. Tauri + Rust + React.
 
+> ⭐ **Featured (Nov 2026):** [third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp) — a private, local-first AI bookmark manager for macOS. v1.2.0 · [Download the .dmg](https://github.com/mayanksagar26/third-street-bookmarks-macapp/releases/latest)
+
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — A private, local-first **AI bookmark manager for macOS** (v1.2.0, Apple Silicon `.app` / `.dmg`). Search, categorise, chat with and listen to bookmarks from X, Hacker News, YouTube, Instagram and any link. Chat and podcast digests run on your own **Claude Code or Codex CLI** (no API key, no upload, no account); a local **Laya** model learns your categories offline. Tauri 2 shell + supervised Node sidecar (Rust, React, SQLite), hardened with a localhost-only, per-launch-token security model. Keywords: *bookmark manager, second brain, read-it-later, Tauri, Claude Code, Codex, privacy-first, offline AI.*
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
