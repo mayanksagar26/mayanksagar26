@@ -2,9 +2,15 @@
 
 📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
 
+> I build **local-first, privacy-respecting AI tools** — native desktop apps, agent-powered workflows and open-source models that run on your own machine, with no API keys or uploads required.
+>
+> 🗓️ *Last updated: 9 November 2026*
+
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · R · Claude Code & OpenAI Codex · local LLMs
+
+**Currently exploring** — local-first software · on-device & open-weight AI · agent runtimes (ACP) · coding-CLI-powered apps · native macOS with Tauri 2
 
 ---
 
@@ -16,7 +22,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native **macOS app** (v1.2.0, Apple Silicon `.dmg`): a **Tauri 2** + Rust shell around a supervised Node sidecar, with no terminal and no localhost tab. Built as a hardened local service (loopback-only, per-launch bearer token, read-only AI agents). Imports X, Hacker News, YouTube playlists / Watch Later (via Takeout) and Instagram saved posts (via official export); chats with your bookmarks on **Claude Code or Codex CLI**; categorises offline with a model trained on your own labels. `tauri` `macos` `bookmark-manager` `local-first` `claude-code` `second-brain` `rust`
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
