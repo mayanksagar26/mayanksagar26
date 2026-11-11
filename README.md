@@ -1,10 +1,23 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building **local-first, AI-native tools** that run on your own machine
+
+<sub>Last updated: 11 November 2026</sub>
 
 ---
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+### 🚀 Now shipping — [Third Street Bookmarks for macOS](https://github.com/mayanksagar26/third-street-bookmarks-macapp)
+
+Every bookmark you've ever saved — X, Hacker News, YouTube, Instagram, any link — in one searchable, categorised library on your Mac. Chat with it, get podcast-style digests, triage with colour labels. **Bring your own agent:** the AI runs on Claude Code or Codex CLI you already have — no API key, no account, nothing uploaded.
+
+[![Download for macOS](https://img.shields.io/badge/Download-macOS%20(Apple%20Silicon)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/mayanksagar26/third-street-bookmarks-macapp/releases/latest)
+[![Tauri 2](https://img.shields.io/badge/Tauri-2-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)](https://github.com/mayanksagar26/third-street-bookmarks-macapp)
+
+**What I'm into right now:** local-first software · agentic coding CLIs as a runtime · Tauri + Rust desktop apps · open-weight video models
+
+---
+
+**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · Tauri · FastAPI · R · Claude & OpenAI APIs
 
 ---
 
