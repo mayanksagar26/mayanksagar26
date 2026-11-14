@@ -48,6 +48,18 @@
 
 👶 **[hello-world](https://github.com/mayanksagar26/hello-world)** — Where it all started.
 
+#### Private projects
+
+<sub>Private repos, so no links.</sub>
+
+🔌 **Third Street MCP** — A private MCP server over my bookmark library: AI assistants can search and read what I've saved, and it publishes my newsletter. TypeScript.
+
+🌾 **Sarthi** — An AI farming assistant, final code built for Google Agentic AI Day.
+
+🗓️ **EaseMyPlan** — My Google Gen AI hackathon submission (v1).
+
+📝 **Essential Space** — My own take on Essential Space: an Android capture app with a self-hosted Claude processing backend. Python.
+
 ---
 
 ## Connect
