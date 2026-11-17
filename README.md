@@ -2,6 +2,16 @@
 
 📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
 
+<sub>🗓️ Last updated 17 Nov 2026</sub>
+
+---
+
+## Now (Nov 2026)
+
+Building **local-first, privacy-first AI tools** that run on the coding agents you already have — Claude Code, Codex CLI, MCP servers — instead of another cloud subscription. Current focus: [Third Street Bookmarks](https://github.com/mayanksagar26/third-street-bookmarks-macapp) (native macOS AI bookmark manager, Tauri 2 + Rust + Node sidecar, v1.2.0) and [Menlo](https://github.com/mayanksagar26/menlo) (rule-based Mac file organiser).
+
+`local-first` `ai-agents` `mcp` `claude-code` `tauri` `rust` `macos` `open-source` `on-device-ai`
+
 ---
 
 **Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
@@ -16,7 +26,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — Native macOS AI bookmark manager (v1.2.0, updated Nov 2026): a Tauri 2 shell around a supervised Node sidecar, shipped as a `.app`/`.dmg` for Apple Silicon. Searchable X, Hacker News, YouTube and Instagram saves, chat that cites them, podcast digests, offline categorising with Laya. Runs on Claude Code or Codex; no API key, nothing leaves your Mac.
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
