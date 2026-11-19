@@ -1,10 +1,16 @@
 # Hi, I'm Mayank 👋
 
-📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 Building at the intersection of AI & real-world problems
+📍 Bengaluru | 🎯 In quest of making a Delta 4+ Product | 🤖 AI product builder — agents, MCP & local-first apps
 
----
+> Product-minded engineer building **local-first, privacy-first AI tools**: native macOS apps, MCP servers, on-device voice agents and LLM-powered workflows that run on the coding CLI you already have (Claude Code, Codex).
 
-**Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
+**Stack** — TypeScript · Python · Rust · Tauri · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs · MCP
+
+**Now** — shipping [Third Street Bookmarks for macOS](https://github.com/mayanksagar26/third-street-bookmarks-macapp) (v1.2.0): one searchable, categorised, listenable library for X, Hacker News, YouTube & Instagram saves — no API key, no upload, no account.
+
+<sub>Last updated: 19 Nov 2026</sub>
+
+<sub>`ai-agents` · `mcp` · `local-first` · `tauri` · `macos` · `claude-code` · `codex-cli` · `llm` · `bookmark-manager` · `second-brain` · `privacy-first` · `product-management`</sub>
 
 ---
 
