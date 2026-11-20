@@ -4,6 +4,8 @@
 
 ---
 
+**Focus** — local-first AI apps · MCP servers · agentic workflows on Claude Code & Codex · privacy-first desktop software (Tauri + Rust)
+
 **Stack** — TypeScript · Python · Rust · Kotlin · Next.js / React · Node.js · R · Claude & OpenAI APIs
 
 ---
@@ -16,7 +18,7 @@
 
 🔖 **[third-street-bookmarks](https://github.com/mayanksagar26/third-street-bookmarks)** — Everything you bookmark, in one place you can search, read and listen to. X, Hacker News, YouTube, Instagram and any loose link in one categorised library, with AI chat that cites what it found, podcast digests with voice, analytics and colour-label triage. Node + React on `localhost`: no API key, nothing leaves your machine, and the AI runs on the coding CLI you already have.
 
-🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — The same library as a native macOS build (v1.2.0): a Tauri shell around a supervised Node sidecar, packaged as a real `.app` and `.dmg` for Apple Silicon. No terminal, no localhost tab.
+🖥️ **[third-street-bookmarks-macapp](https://github.com/mayanksagar26/third-street-bookmarks-macapp)** — A local-first, AI-powered bookmark manager for macOS (v1.2.0). Pulls X, Hacker News, YouTube and Instagram bookmarks into one searchable, categorised library, with chat over your saves, podcast-style digests and a classifier trained on your own labels. Tauri 2 shell + supervised Node sidecar, shipped as a `.app` and `.dmg` for Apple Silicon. No API key, no account, no upload — the AI runs on the Claude Code or Codex CLI you already have. Also shares its `~/.tsb` library with the browser build.
 
 🎬 **[vid-bid](https://github.com/mayanksagar26/vid-bid)** — Swap the product inside a video: upload a clip or paste a YouTube link, pick a detected object, give it a photo of your product, and get the same video back with your product in its place. Free and open source end to end, with no paid APIs, keys or accounts. A fast engine wraps the product onto the tracked shape (SAM 2 + CLIP + YOLO-World), and a realistic engine re-renders the region with the open Wan 2.1 VACE model on your own machine. Includes a CLI and a free Colab GPU notebook. Python + FastAPI.
 
@@ -59,6 +61,15 @@
 🗓️ **EaseMyPlan** — My Google Gen AI hackathon submission (v1).
 
 📝 **Essential Space** — My own take on Essential Space: an Android capture app with a self-hosted Claude processing backend. Python.
+
+---
+
+## Currently
+
+- Shipping **Third Street Bookmarks** for Mac — local-first AI, no cloud, no keys
+- Exploring agent runtimes and MCP as the interface between my data and AI assistants
+
+<sub>README last updated: 20 November 2026</sub>
 
 ---
 
